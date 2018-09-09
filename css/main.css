@@ -1,0 +1,146 @@
+/* line 1, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto; }
+
+/* line 7, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin .form-signin-heading, .form-signin .checkbox {
+  margin-bottom: 10px; }
+
+/* line 11, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin .checkbox {
+  font-weight: normal; }
+
+/* line 15, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* line 25, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin .form-control:focus {
+  z-index: 2; }
+
+/* line 29, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0; }
+
+/* line 35, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; }
+
+/* line 41, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.account-wall {
+  margin-top: 20px;
+  padding: 40px 0px 20px 0px;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); }
+
+/* line 50, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.todo-list-box {
+  margin-top: 20px;
+  padding: 5px 0px 20px 0px;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3); }
+
+/* line 58, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.login-title {
+  color: #555;
+  font-size: 18px;
+  font-weight: 400;
+  display: block; }
+
+/* line 65, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.profile-img {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%; }
+
+/* line 75, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.need-help {
+  margin-top: 10px; }
+
+/* line 79, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.new-account {
+  display: block;
+  margin-top: 10px; }
+
+/* line 85, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.todolist {
+  background-color: #FFF;
+  padding: 20px 20px 10px 20px;
+  margin-top: 30px; }
+
+/* line 90, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.todolist h1 {
+  margin: 0;
+  padding-bottom: 20px;
+  text-align: center; }
+
+/* line 95, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.form-control {
+  border-radius: 0; }
+
+/* line 98, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+li.ui-state-default {
+  background: #fff;
+  border: none;
+  border-bottom: 1px solid #ddd; }
+
+/* line 104, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+li.ui-state-default:last-child {
+  border-bottom: none; }
+
+/* line 108, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.todo-footer {
+  background-color: #F4FCE8;
+  margin: 0 -20px -10px -20px;
+  padding: 10px 20px; }
+
+/* line 113, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+#done-items li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  text-decoration: line-through; }
+
+/* line 118, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+#done-items li:last-child {
+  border-bottom: none; }
+
+/* line 121, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+#checkAll {
+  margin-top: 10px; }
+
+/* line 126, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.ui-state-default .btn-delete {
+  margin-top: -2px;
+  padding: 2px 7px; }
+
+/* line 132, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.add-todo {
+  width: 75%;
+  display: inline-block; }
+
+/* line 137, /Users/vstruhar/Sites/kurz/todo-list/css/main.scss */
+.add-new-todo {
+  width: 23%;
+  display: inline-block; }
+
+/*# sourceMappingURL=main.css.map */
